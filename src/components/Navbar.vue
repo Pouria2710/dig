@@ -18,7 +18,6 @@
     <LocationBar/>
 </div>
 </template>
-
 <script>
     import BtnBasket from "./Common/BtnBasket";
     import LocationBar from "./LocationBar";
