@@ -1,0 +1,16 @@
+.uk-button {
+  font-size: 1rem;
+}
+.btn-outlined{
+  border: 1px solid $global-link-color !important;
+  background-color: transparent;
+  color: $global-link-color !important;
+  border-radius: 4px;
+}
+.btn-outlined:hover{
+  background-color: lighten($global-primary-background, 40%)
+}
+.btn-outlined:active{
+  background-color: lighten($global-primary-background, 35%)
+}
+
